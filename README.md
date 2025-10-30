@@ -1,5 +1,4 @@
-
-# Sample Snack app
+APP
 
 Skills for Success Mobile App
 
